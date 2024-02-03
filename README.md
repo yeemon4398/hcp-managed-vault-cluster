@@ -4,7 +4,7 @@
 ![Cohort-GitHub - TFC - HCP - Vault](https://github.com/yeemon4398/hcp-managed-vault-cluster/assets/40330106/01cded53-3538-4a46-a7a2-d5d8096eb912)
 
 ## Summary ##
-- Included services
+- Included platforms and services
 - Pre-requisites
 - Connection between local PC and GitHub
 - Connection between GitHub and Terraform Cloud
@@ -31,7 +31,7 @@
 ### Connection between local PC and GitHub ###
 #### 1. Prepare Terraform configuration files ####
 - Official documentation link of HCP provider for Terraform configuration [https://registry.terraform.io/providers/hashicorp/hcp/latest/docs]
-- Can reference my sample Terraform configuration files [https://github.com/yeemon4398/hcp-managed-vault-cluster]
+- Can reference my sample Terraform configuration files and replace your preferred values at variables.tf file as per official documentation [https://github.com/yeemon4398/hcp-managed-vault-cluster]
 
 #### 2. Generate a personal classic token at GitHub ####
 - Generate a personal classic token to authenticate GitHub from the local PC
